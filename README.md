@@ -6,7 +6,7 @@ A simple Flutter Package to Mimic iMessage Image Picker for Flutter
 
 ## Features
 
-![](https://github.com/imWalsh/images_swiper/blob/main/images_swiper.gif)
+<img src="https://github.com/imWalsh/images_swiper/blob/main/images_swiper.gif" alt="Image" style="width:35%;">
 
 ## Getting started
 
