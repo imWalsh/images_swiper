@@ -1,4 +1,4 @@
-import 'package:dismissible_page/dismissible_page.dart';
+// import 'package:dismissible_page/dismissible_page.dart';
 import 'package:flutter/material.dart';
 
 class GalleryPage extends StatelessWidget {
